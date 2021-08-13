@@ -6,7 +6,7 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela
 
 Use the left arrow to go back!
 
